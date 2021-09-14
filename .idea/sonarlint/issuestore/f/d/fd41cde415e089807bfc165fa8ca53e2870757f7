@@ -1,0 +1,15 @@
+
+q	java:S116"URename this field "total_rows" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‘â‹8‹‰¾Ò½/
+y	java:S116 "XRename this field "total_columns" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïúÉıÿÿÿÿ8‹‰¾Ò½/
+n	java:S116!"ZRename this field "available_seats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹şâ8
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘òõÎùÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¥Üä
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÈÉ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ûµóÿÿÿÿÿ
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òßÃæşÿÿÿÿ8‘‰¾Ò½/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûªáº8’‰¾Ò½/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8®Æ–Ô½/
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¥Üä
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ûµóÿÿÿÿÿ
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûªáº8“‰¾Ò½/
